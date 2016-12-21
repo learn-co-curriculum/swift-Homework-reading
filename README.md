@@ -26,7 +26,7 @@
 5. Read this entire [chapter](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html) titled Protocols from "The Swift Programming Language" book.
 6. Read this [reading](https://github.com/learn-co-curriculum/swift-protocolType-lab) titled Protocols as Types and Delegation.
 7. Complete this [lab](https://github.com/learn-co-curriculum/swift-ProtocolDelegate-lab). 
-8. Complse this [lab](https://github.com/learn-co-curriculum/swift-Hospital-lab) too!.
+8. Complete this [lab](https://github.com/learn-co-curriculum/swift-Hospital-lab) too!.
 9. Write a blog post that covers both closures (briefly) and protocols and delegates (in more detail).
 10. Complete your assessment with an instructor. 
 
